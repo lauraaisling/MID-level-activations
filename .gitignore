@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints
+data/
+logs/
+src.egg-info/
+build/
+outputs/
+notebooks/iframe_figures/
+checkpoints/
+.MID/
+results/
+junk/
+files/

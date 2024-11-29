@@ -1,0 +1,23 @@
+matplotlib
+torch 
+torchvision 
+torchaudio
+jupyter
+seaborn
+imageio
+scipy
+tensorflow
+einops
+kaggle # for CelebA
+transformers # for Bert
+wandb
+pandas
+timm # for augmentations
+einops
+scikit-learn
+numpy==1.23.5
+plotly
+
+# pip install gin-config
+# pip install salesforce-lavis
+# pip3 install ipympl
